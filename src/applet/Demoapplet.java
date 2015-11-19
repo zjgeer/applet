@@ -3,6 +3,7 @@ package applet;
 import java.applet.Applet;
 import java.awt.Graphics;
 
+/* my first class */
 public class Demoapplet extends Applet{
 		/**
 	 * 
